@@ -1,0 +1,523 @@
+Entity,Code,Year,Average temperature
+Global,,1850,-0.41765878
+Global,,1851,-0.2333498
+Global,,1852,-0.22939907
+Global,,1853,-0.27035445
+Global,,1854,-0.29163003
+Global,,1855,-0.2969512
+Global,,1856,-0.32035372
+Global,,1857,-0.46723005
+Global,,1858,-0.3887657
+Global,,1859,-0.28119546
+Global,,1860,-0.39016518
+Global,,1861,-0.42927712
+Global,,1862,-0.53639776
+Global,,1863,-0.3443432
+Global,,1864,-0.4654367
+Global,,1865,-0.33258784
+Global,,1866,-0.34126064
+Global,,1867,-0.35696334
+Global,,1868,-0.35196072
+Global,,1869,-0.31657043
+Global,,1870,-0.32789087
+Global,,1871,-0.3685807
+Global,,1872,-0.32804197
+Global,,1873,-0.34133235
+Global,,1874,-0.3732512
+Global,,1875,-0.37562594
+Global,,1876,-0.42410994
+Global,,1877,-0.101108834
+Global,,1878,-0.011315193
+Global,,1879,-0.30363432
+Global,,1880,-0.31583208
+Global,,1881,-0.23224552
+Global,,1882,-0.29553008
+Global,,1883,-0.3464744
+Global,,1884,-0.49232006
+Global,,1885,-0.47112358
+Global,,1886,-0.42090362
+Global,,1887,-0.49878576
+Global,,1888,-0.37937889
+Global,,1889,-0.24989556
+Global,,1890,-0.50685817
+Global,,1891,-0.40131494
+Global,,1892,-0.5075585
+Global,,1893,-0.49461925
+Global,,1894,-0.48376393
+Global,,1895,-0.4487516
+Global,,1896,-0.28400728
+Global,,1897,-0.25980017
+Global,,1898,-0.48579213
+Global,,1899,-0.35543364
+Global,,1900,-0.23447904
+Global,,1901,-0.29342857
+Global,,1902,-0.43898427
+Global,,1903,-0.5333264
+Global,,1904,-0.5975614
+Global,,1905,-0.40775132
+Global,,1906,-0.3191393
+Global,,1907,-0.5041577
+Global,,1908,-0.5138707
+Global,,1909,-0.5357649
+Global,,1910,-0.5310242
+Global,,1911,-0.5392051
+Global,,1912,-0.47567302
+Global,,1913,-0.46715254
+Global,,1914,-0.2625924
+Global,,1915,-0.19184391
+Global,,1916,-0.42020997
+Global,,1917,-0.54301953
+Global,,1918,-0.42458433
+Global,,1919,-0.32551822
+Global,,1920,-0.2985808
+Global,,1921,-0.24067703
+Global,,1922,-0.33922812
+Global,,1923,-0.31793055
+Global,,1924,-0.3120622
+Global,,1925,-0.28242525
+Global,,1926,-0.12283547
+Global,,1927,-0.22940508
+Global,,1928,-0.20676155
+Global,,1929,-0.39275664
+Global,,1930,-0.1768054
+Global,,1931,-0.10339768
+Global,,1932,-0.14546166
+Global,,1933,-0.32234442
+Global,,1934,-0.17433685
+Global,,1935,-0.20605922
+Global,,1936,-0.16952093
+Global,,1937,-0.01919893
+Global,,1938,-0.012200732
+Global,,1939,-0.040797167
+Global,,1940,0.07593584
+Global,,1941,0.038129337
+Global,,1942,0.001406091
+Global,,1943,0.006414075
+Global,,1944,0.14410514
+Global,,1945,0.043088365
+Global,,1946,-0.1188128
+Global,,1947,-0.091205545
+Global,,1948,-0.12466127
+Global,,1949,-0.14380224
+Global,,1950,-0.22662179
+Global,,1951,-0.06115397
+Global,,1952,0.015354565
+Global,,1953,0.07763074
+Global,,1954,-0.11675021
+Global,,1955,-0.19730993
+Global,,1956,-0.2631656
+Global,,1957,-0.035334926
+Global,,1958,-0.017632553
+Global,,1959,-0.048004825
+Global,,1960,-0.115487024
+Global,,1961,-0.019997388
+Global,,1962,-0.06405444
+Global,,1963,-0.03680589
+Global,,1964,-0.30586675
+Global,,1965,-0.2043879
+Global,,1966,-0.14888458
+Global,,1967,-0.11751631
+Global,,1968,-0.1686323
+Global,,1969,-0.031366713
+Global,,1970,-0.08510657
+Global,,1971,-0.20593274
+Global,,1972,-0.0938271
+Global,,1973,0.04993336
+Global,,1974,-0.17253734
+Global,,1975,-0.11075424
+Global,,1976,-0.21586166
+Global,,1977,0.10308852
+Global,,1978,0.005255772
+Global,,1979,0.09085813
+Global,,1980,0.19607207
+Global,,1981,0.25001204
+Global,,1982,0.034263328
+Global,,1983,0.22383861
+Global,,1984,0.04800471
+Global,,1985,0.04972978
+Global,,1986,0.09568697
+Global,,1987,0.2430264
+Global,,1988,0.28215173
+Global,,1989,0.17925027
+Global,,1990,0.36056247
+Global,,1991,0.33889654
+Global,,1992,0.124896795
+Global,,1993,0.16565846
+Global,,1994,0.23354977
+Global,,1995,0.37686616
+Global,,1996,0.2766894
+Global,,1997,0.4223085
+Global,,1998,0.57731646
+Global,,1999,0.32448497
+Global,,2000,0.3310848
+Global,,2001,0.48928034
+Global,,2002,0.5434665
+Global,,2003,0.5441702
+Global,,2004,0.46737072
+Global,,2005,0.60686255
+Global,,2006,0.5725527
+Global,,2007,0.5917013
+Global,,2008,0.46564984
+Global,,2009,0.5967817
+Global,,2010,0.68037146
+Global,,2011,0.53769773
+Global,,2012,0.5776071
+Global,,2013,0.6235754
+Global,,2014,0.67287165
+Global,,2015,0.82511437
+Global,,2016,0.93292713
+Global,,2017,0.84517425
+Global,,2018,0.762654
+Global,,2019,0.8910726
+Global,,2020,0.9227938
+Global,,2021,0.7618559
+Global,,2022,0.80128413
+Global,,2023,0.9965588
+Northern hemisphere,,1850,-0.43579108
+Northern hemisphere,,1851,-0.21924901
+Northern hemisphere,,1852,-0.23570205
+Northern hemisphere,,1853,-0.24539217
+Northern hemisphere,,1854,-0.17490809
+Northern hemisphere,,1855,-0.24564321
+Northern hemisphere,,1856,-0.33354086
+Northern hemisphere,,1857,-0.45139664
+Northern hemisphere,,1858,-0.3586044
+Northern hemisphere,,1859,-0.24764407
+Northern hemisphere,,1860,-0.45903206
+Northern hemisphere,,1861,-0.40554163
+Northern hemisphere,,1862,-0.7015686
+Northern hemisphere,,1863,-0.30135897
+Northern hemisphere,,1864,-0.46164352
+Northern hemisphere,,1865,-0.367516
+Northern hemisphere,,1866,-0.37373003
+Northern hemisphere,,1867,-0.40509325
+Northern hemisphere,,1868,-0.3587121
+Northern hemisphere,,1869,-0.24876358
+Northern hemisphere,,1870,-0.3120681
+Northern hemisphere,,1871,-0.44095552
+Northern hemisphere,,1872,-0.3570225
+Northern hemisphere,,1873,-0.3755952
+Northern hemisphere,,1874,-0.29373273
+Northern hemisphere,,1875,-0.48372233
+Northern hemisphere,,1876,-0.43496627
+Northern hemisphere,,1877,-0.10136229
+Northern hemisphere,,1878,0.07121073
+Northern hemisphere,,1879,-0.33624864
+Northern hemisphere,,1880,-0.38399777
+Northern hemisphere,,1881,-0.28404993
+Northern hemisphere,,1882,-0.37297913
+Northern hemisphere,,1883,-0.42706347
+Northern hemisphere,,1884,-0.63446146
+Northern hemisphere,,1885,-0.50963664
+Northern hemisphere,,1886,-0.4454663
+Northern hemisphere,,1887,-0.49421906
+Northern hemisphere,,1888,-0.37244922
+Northern hemisphere,,1889,-0.26046592
+Northern hemisphere,,1890,-0.5236722
+Northern hemisphere,,1891,-0.41190198
+Northern hemisphere,,1892,-0.57606024
+Northern hemisphere,,1893,-0.5567236
+Northern hemisphere,,1894,-0.44259676
+Northern hemisphere,,1895,-0.44512075
+Northern hemisphere,,1896,-0.29344037
+Northern hemisphere,,1897,-0.25156042
+Northern hemisphere,,1898,-0.430447
+Northern hemisphere,,1899,-0.33304518
+Northern hemisphere,,1900,-0.19789775
+Northern hemisphere,,1901,-0.21493746
+Northern hemisphere,,1902,-0.459913
+Northern hemisphere,,1903,-0.50512433
+Northern hemisphere,,1904,-0.5783536
+Northern hemisphere,,1905,-0.40339717
+Northern hemisphere,,1906,-0.26034278
+Northern hemisphere,,1907,-0.53668755
+Northern hemisphere,,1908,-0.47782668
+Northern hemisphere,,1909,-0.49372384
+Northern hemisphere,,1910,-0.49141455
+Northern hemisphere,,1911,-0.4531457
+Northern hemisphere,,1912,-0.5302812
+Northern hemisphere,,1913,-0.4946916
+Northern hemisphere,,1914,-0.26909837
+Northern hemisphere,,1915,-0.17552477
+Northern hemisphere,,1916,-0.44348505
+Northern hemisphere,,1917,-0.58452386
+Northern hemisphere,,1918,-0.4693667
+Northern hemisphere,,1919,-0.37228045
+Northern hemisphere,,1920,-0.30915058
+Northern hemisphere,,1921,-0.16326092
+Northern hemisphere,,1922,-0.3025757
+Northern hemisphere,,1923,-0.2553121
+Northern hemisphere,,1924,-0.19269112
+Northern hemisphere,,1925,-0.16855866
+Northern hemisphere,,1926,-0.001948146
+Northern hemisphere,,1927,-0.106848285
+Northern hemisphere,,1928,-0.0874137
+Northern hemisphere,,1929,-0.33659348
+Northern hemisphere,,1930,-0.030012226
+Northern hemisphere,,1931,0.0458628
+Northern hemisphere,,1932,-0.037433486
+Northern hemisphere,,1933,-0.26505136
+Northern hemisphere,,1934,-0.05340261
+Northern hemisphere,,1935,-0.08655058
+Northern hemisphere,,1936,-0.060995486
+Northern hemisphere,,1937,0.121766165
+Northern hemisphere,,1938,0.15948813
+Northern hemisphere,,1939,0.053391192
+Northern hemisphere,,1940,0.12198081
+Northern hemisphere,,1941,0.07549032
+Northern hemisphere,,1942,0.060141157
+Northern hemisphere,,1943,0.112462394
+Northern hemisphere,,1944,0.22006534
+Northern hemisphere,,1945,0.08353451
+Northern hemisphere,,1946,-0.011474031
+Northern hemisphere,,1947,0.044209387
+Northern hemisphere,,1948,-0.000778763
+Northern hemisphere,,1949,-0.06751225
+Northern hemisphere,,1950,-0.19089265
+Northern hemisphere,,1951,0.053849168
+Northern hemisphere,,1952,0.0698174
+Northern hemisphere,,1953,0.20657909
+Northern hemisphere,,1954,-0.03111773
+Northern hemisphere,,1955,-0.12558742
+Northern hemisphere,,1956,-0.27912933
+Northern hemisphere,,1957,-0.03576782
+Northern hemisphere,,1958,0.08269571
+Northern hemisphere,,1959,0.04707567
+Northern hemisphere,,1960,0.000396488
+Northern hemisphere,,1961,-0.006730791
+Northern hemisphere,,1962,0.04820568
+Northern hemisphere,,1963,0.07036424
+Northern hemisphere,,1964,-0.26100203
+Northern hemisphere,,1965,-0.19513263
+Northern hemisphere,,1966,-0.08895999
+Northern hemisphere,,1967,-0.039132696
+Northern hemisphere,,1968,-0.1392383
+Northern hemisphere,,1969,-0.10033807
+Northern hemisphere,,1970,-0.12249983
+Northern hemisphere,,1971,-0.22896299
+Northern hemisphere,,1972,-0.2498834
+Northern hemisphere,,1973,0.021601314
+Northern hemisphere,,1974,-0.24963334
+Northern hemisphere,,1975,-0.11088225
+Northern hemisphere,,1976,-0.25186262
+Northern hemisphere,,1977,0.07897045
+Northern hemisphere,,1978,-0.011896554
+Northern hemisphere,,1979,0.031081047
+Northern hemisphere,,1980,0.13930702
+Northern hemisphere,,1981,0.3399632
+Northern hemisphere,,1982,-0.00987823
+Northern hemisphere,,1983,0.19221349
+Northern hemisphere,,1984,-0.02962185
+Northern hemisphere,,1985,-0.05202676
+Northern hemisphere,,1986,0.062017497
+Northern hemisphere,,1987,0.19571494
+Northern hemisphere,,1988,0.3156612
+Northern hemisphere,,1989,0.21736717
+Northern hemisphere,,1990,0.46398687
+Northern hemisphere,,1991,0.38519096
+Northern hemisphere,,1992,0.09690911
+Northern hemisphere,,1993,0.19244476
+Northern hemisphere,,1994,0.32322568
+Northern hemisphere,,1995,0.56863606
+Northern hemisphere,,1996,0.29174882
+Northern hemisphere,,1997,0.53472054
+Northern hemisphere,,1998,0.71429116
+Northern hemisphere,,1999,0.47636312
+Northern hemisphere,,2000,0.48707607
+Northern hemisphere,,2001,0.62824297
+Northern hemisphere,,2002,0.6687142
+Northern hemisphere,,2003,0.7204716
+Northern hemisphere,,2004,0.63348985
+Northern hemisphere,,2005,0.8313995
+Northern hemisphere,,2006,0.7947609
+Northern hemisphere,,2007,0.8321025
+Northern hemisphere,,2008,0.67170423
+Northern hemisphere,,2009,0.70673966
+Northern hemisphere,,2010,0.91949975
+Northern hemisphere,,2011,0.725346
+Northern hemisphere,,2012,0.7843316
+Northern hemisphere,,2013,0.77667415
+Northern hemisphere,,2014,0.907794
+Northern hemisphere,,2015,1.1308405
+Northern hemisphere,,2016,1.255193
+Northern hemisphere,,2017,1.1153969
+Northern hemisphere,,2018,0.95966166
+Northern hemisphere,,2019,1.1437434
+Northern hemisphere,,2020,1.2757266
+Northern hemisphere,,2021,1.0779494
+Northern hemisphere,,2022,1.0997018
+Northern hemisphere,,2023,1.2378116
+Southern hemisphere,,1850,-0.39952648
+Southern hemisphere,,1851,-0.24745059
+Southern hemisphere,,1852,-0.2230961
+Southern hemisphere,,1853,-0.2953167
+Southern hemisphere,,1854,-0.408352
+Southern hemisphere,,1855,-0.3482592
+Southern hemisphere,,1856,-0.30716658
+Southern hemisphere,,1857,-0.48306343
+Southern hemisphere,,1858,-0.41892695
+Southern hemisphere,,1859,-0.31474683
+Southern hemisphere,,1860,-0.32129827
+Southern hemisphere,,1861,-0.4530126
+Southern hemisphere,,1862,-0.37122685
+Southern hemisphere,,1863,-0.38732743
+Southern hemisphere,,1864,-0.4692299
+Southern hemisphere,,1865,-0.2976597
+Southern hemisphere,,1866,-0.30879125
+Southern hemisphere,,1867,-0.30883342
+Southern hemisphere,,1868,-0.3452093
+Southern hemisphere,,1869,-0.3843773
+Southern hemisphere,,1870,-0.3437136
+Southern hemisphere,,1871,-0.29620588
+Southern hemisphere,,1872,-0.29906142
+Southern hemisphere,,1873,-0.30706945
+Southern hemisphere,,1874,-0.45276964
+Southern hemisphere,,1875,-0.26752955
+Southern hemisphere,,1876,-0.41325358
+Southern hemisphere,,1877,-0.10085537
+Southern hemisphere,,1878,-0.09384111
+Southern hemisphere,,1879,-0.27102003
+Southern hemisphere,,1880,-0.24766637
+Southern hemisphere,,1881,-0.18044113
+Southern hemisphere,,1882,-0.21808103
+Southern hemisphere,,1883,-0.26588535
+Southern hemisphere,,1884,-0.3501787
+Southern hemisphere,,1885,-0.43261054
+Southern hemisphere,,1886,-0.3963409
+Southern hemisphere,,1887,-0.50335246
+Southern hemisphere,,1888,-0.38630855
+Southern hemisphere,,1889,-0.23932517
+Southern hemisphere,,1890,-0.49004412
+Southern hemisphere,,1891,-0.39072788
+Southern hemisphere,,1892,-0.4390568
+Southern hemisphere,,1893,-0.43251488
+Southern hemisphere,,1894,-0.5249311
+Southern hemisphere,,1895,-0.45238245
+Southern hemisphere,,1896,-0.27457422
+Southern hemisphere,,1897,-0.2680399
+Southern hemisphere,,1898,-0.5411372
+Southern hemisphere,,1899,-0.37782213
+Southern hemisphere,,1900,-0.27106032
+Southern hemisphere,,1901,-0.37191966
+Southern hemisphere,,1902,-0.41805556
+Southern hemisphere,,1903,-0.56152844
+Southern hemisphere,,1904,-0.6167693
+Southern hemisphere,,1905,-0.4121055
+Southern hemisphere,,1906,-0.37793586
+Southern hemisphere,,1907,-0.47162786
+Southern hemisphere,,1908,-0.5499147
+Southern hemisphere,,1909,-0.57780594
+Southern hemisphere,,1910,-0.5706339
+Southern hemisphere,,1911,-0.6252645
+Southern hemisphere,,1912,-0.42106485
+Southern hemisphere,,1913,-0.43961346
+Southern hemisphere,,1914,-0.25608647
+Southern hemisphere,,1915,-0.20816307
+Southern hemisphere,,1916,-0.3969349
+Southern hemisphere,,1917,-0.5015152
+Southern hemisphere,,1918,-0.37980196
+Southern hemisphere,,1919,-0.278756
+Southern hemisphere,,1920,-0.28801098
+Southern hemisphere,,1921,-0.31809315
+Southern hemisphere,,1922,-0.37588054
+Southern hemisphere,,1923,-0.380549
+Southern hemisphere,,1924,-0.43143332
+Southern hemisphere,,1925,-0.39629188
+Southern hemisphere,,1926,-0.2437228
+Southern hemisphere,,1927,-0.35196185
+Southern hemisphere,,1928,-0.3261094
+Southern hemisphere,,1929,-0.44891977
+Southern hemisphere,,1930,-0.32359856
+Southern hemisphere,,1931,-0.25265816
+Southern hemisphere,,1932,-0.25348985
+Southern hemisphere,,1933,-0.37963745
+Southern hemisphere,,1934,-0.2952711
+Southern hemisphere,,1935,-0.32556787
+Southern hemisphere,,1936,-0.27804637
+Southern hemisphere,,1937,-0.16016403
+Southern hemisphere,,1938,-0.18388958
+Southern hemisphere,,1939,-0.13498552
+Southern hemisphere,,1940,0.029890874
+Southern hemisphere,,1941,0.000768358
+Southern hemisphere,,1942,-0.057328977
+Southern hemisphere,,1943,-0.099634245
+Southern hemisphere,,1944,0.06814493
+Southern hemisphere,,1945,0.002642223
+Southern hemisphere,,1946,-0.22615156
+Southern hemisphere,,1947,-0.22662048
+Southern hemisphere,,1948,-0.24854377
+Southern hemisphere,,1949,-0.22009224
+Southern hemisphere,,1950,-0.26235095
+Southern hemisphere,,1951,-0.1761571
+Southern hemisphere,,1952,-0.039108276
+Southern hemisphere,,1953,-0.051317606
+Southern hemisphere,,1954,-0.2023827
+Southern hemisphere,,1955,-0.26903242
+Southern hemisphere,,1956,-0.24720186
+Southern hemisphere,,1957,-0.034902032
+Southern hemisphere,,1958,-0.11796081
+Southern hemisphere,,1959,-0.14308532
+Southern hemisphere,,1960,-0.23137054
+Southern hemisphere,,1961,-0.03326399
+Southern hemisphere,,1962,-0.17631456
+Southern hemisphere,,1963,-0.14397602
+Southern hemisphere,,1964,-0.35073146
+Southern hemisphere,,1965,-0.21364318
+Southern hemisphere,,1966,-0.20880918
+Southern hemisphere,,1967,-0.19589992
+Southern hemisphere,,1968,-0.1980263
+Southern hemisphere,,1969,0.037604645
+Southern hemisphere,,1970,-0.0477133
+Southern hemisphere,,1971,-0.18290249
+Southern hemisphere,,1972,0.062229194
+Southern hemisphere,,1973,0.0782654
+Southern hemisphere,,1974,-0.09544133
+Southern hemisphere,,1975,-0.11062622
+Southern hemisphere,,1976,-0.17986071
+Southern hemisphere,,1977,0.1272066
+Southern hemisphere,,1978,0.0224081
+Southern hemisphere,,1979,0.15063521
+Southern hemisphere,,1980,0.25283712
+Southern hemisphere,,1981,0.16006088
+Southern hemisphere,,1982,0.07840488
+Southern hemisphere,,1983,0.25546375
+Southern hemisphere,,1984,0.12563127
+Southern hemisphere,,1985,0.15148632
+Southern hemisphere,,1986,0.12935646
+Southern hemisphere,,1987,0.29033786
+Southern hemisphere,,1988,0.24864225
+Southern hemisphere,,1989,0.14113335
+Southern hemisphere,,1990,0.25713807
+Southern hemisphere,,1991,0.2926021
+Southern hemisphere,,1992,0.15288447
+Southern hemisphere,,1993,0.13887216
+Southern hemisphere,,1994,0.14387386
+Southern hemisphere,,1995,0.18509625
+Southern hemisphere,,1996,0.26163
+Southern hemisphere,,1997,0.3098965
+Southern hemisphere,,1998,0.4403418
+Southern hemisphere,,1999,0.1726068
+Southern hemisphere,,2000,0.17509349
+Southern hemisphere,,2001,0.35031772
+Southern hemisphere,,2002,0.41821876
+Southern hemisphere,,2003,0.36786872
+Southern hemisphere,,2004,0.3012516
+Southern hemisphere,,2005,0.38232562
+Southern hemisphere,,2006,0.3503445
+Southern hemisphere,,2007,0.35130018
+Southern hemisphere,,2008,0.25959548
+Southern hemisphere,,2009,0.48682365
+Southern hemisphere,,2010,0.44124317
+Southern hemisphere,,2011,0.3500494
+Southern hemisphere,,2012,0.3708825
+Southern hemisphere,,2013,0.47047654
+Southern hemisphere,,2014,0.4379493
+Southern hemisphere,,2015,0.5193882
+Southern hemisphere,,2016,0.61066127
+Southern hemisphere,,2017,0.57495165
+Southern hemisphere,,2018,0.56564635
+Southern hemisphere,,2019,0.63840175
+Southern hemisphere,,2020,0.569861
+Southern hemisphere,,2021,0.44576237
+Southern hemisphere,,2022,0.5028665
+Southern hemisphere,,2023,0.7553061

@@ -1,0 +1,10 @@
+https://data.giss.nasa.gov/gistemp/
+https://climate.nasa.gov/vital-signs/ice-sheets/?intent=121
+https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Land_and_Ocean_complete.txt
+https://climate.nasa.gov/vital-signs/carbon-dioxide/?intent=121
+https://tradingeconomics.com/country-list/temperature
+https://climate.nasa.gov/vital-signs/sea-level/?intent=121
+https://www.ncei.noaa.gov/access/billions/events/TA/1980-2024?disasters[]=all-disasters
+https://marine.copernicus.eu/ocean-climate-portal/ocean-acidification
+https://www.epa.gov/climate-indicators/climate-change-indicators-heat-waves
+https://ourworldindata.org/grapher/methane-emissions?tab=table
